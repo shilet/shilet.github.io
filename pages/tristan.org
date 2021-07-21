@@ -1,0 +1,16 @@
+#+BEGIN_COMMENT
+.. title: Tristan
+.. slug: tristan
+.. date: 2020-10-01 12:43:24 UTC+02:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+
+[[/images/tristan.jpg]]
+
+
+- My name is Tristan van Foreest. I was born in Groningen on January 13, 2005.
+- I have four brothers Jorden, Lucas, Pieter, Nanne and one sister Machteld.

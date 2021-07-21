@@ -1,0 +1,22 @@
+#+BEGIN_COMMENT
+.. title: Family van Foreest
+.. slug: index
+.. date: 2020-10-01 12:43:24 UTC+02:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. hidetitle: True
+#+END_COMMENT
+
+
+#+attr_html: :width 600px :cellpadding 20 :cellspacing 5 :border 0 :rules none
+| [[link:/sheila][file:/images/sheila.jpg]]      | [[link:/nicky][file:/images/nicky.jpg]] |
+| Sheila                       | Nicky                    |
+| [[link:/jorden][file:/images/jorden_tata.png]] | [[link:/lucas][file:/images/lucas.jpg]]   |
+| Jorden                       | Lucas                    |
+| [[link:/pieter][file:/images/pieter.png]]      | [[link:/tristan][file:/images/tristan.jpg]] |
+| Pieter                       | Tristan                  |
+| [[link:/machteld][file:/images/machteld.jpg]]    | [[link:/nanne][file:/images/nanne.jpg]]   |
+| Machteld                     | Nanne                    |

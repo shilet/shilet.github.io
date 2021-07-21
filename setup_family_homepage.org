@@ -1,0 +1,81 @@
+#+title: stappen gevold om homepage op te zetten
+
+
+* setup
+
+Hier is de uitleg: https://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/
+
+
+#+begin_src sh
+git clone  https://shilet:Chessmum01@github.com/shilet/shilet.github.io.git ~/Dropbox/family_homepage
+#+end_src
+
+#+RESULTS:
+
+#+begin_src sh
+cd ~/Dropbox/family_homepage
+$ git checkout -b sources
+#+end_src
+
+#+RESULTS:
+
+
+#+begin_src sh :dir ~/Dropbox/family_homepage
+cat <<EOT >> .gitignore
+*.py[cod]
+__pycache__
+cache
+output
+.doit.db
+_env/
+EOT
+#+end_src
+
+#+RESULTS:
+
+#+begin_src sh :dir ~/Dropbox/family_homepage
+git add .gitignore
+git commit -m "Add .gitignore"
+#+end_src
+
+#+RESULTS:
+| [master | (root-commit) | 427ffac] | Add        | .gitignore    |
+| 1       | file          | changed, | 6          | insertions(+) |
+| create  | mode          | 100644   | .gitignore |               |
+
+Run dit zelf in de terminal, omdat je vragen moet beantwoorden.
+#+begin_src sh :dir ~/Dropbox/family_homepage
+nikola init my_first_site
+#+end_src
+# Fill the asked information
+
+#+begin_src sh :dir ~/Dropbox/family_homepage
+mv my_first_site/* .
+rm -r my_first_site
+#+end_src
+
+#+begin_src sh  :results none
+nikola plugin -i orgmode
+#+end_src
+
+
+Ik heb de =conf.py= van mijn eigen homepage eerst gecopieerd, en toen aangepast.
+
+#+begin_src sh
+git add plugins/orgmode conf.py
+git commit -m "Add org-mode support"
+#+end_src
+
+#+RESULTS:
+| [master | 1087831] |      Add | org-mode                               | support       |
+| 8       | files    | changed, | 1780                                   | insertions(+) |
+| create  | mode     |   100644 | conf.py                                |               |
+| create  | mode     |   100644 | plugins/orgmode/README.md              |               |
+| create  | mode     |   100644 | plugins/orgmode/conf.py.sample         |               |
+| create  | mode     |   100644 | plugins/orgmode/init.el                |               |
+| create  | mode     |   100644 | plugins/orgmode/macros.org             |               |
+| create  | mode     |   100644 | plugins/orgmode/orgmode.plugin         |               |
+| create  | mode     |   100644 | plugins/orgmode/orgmode.py             |               |
+| create  | mode     |   100644 | plugins/orgmode/requirements-nonpy.txt |               |
+
+* Deploy at github
