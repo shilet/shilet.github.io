@@ -10,17 +10,46 @@
 .. hidetitle: True
 #+END_COMMENT
 
-#+attr_html: :width 600px :cellpadding 20 :cellspacing 5 :border 0 :rules none
-|    [[link:/sheila][file:/images/sheila.jpg]]    Sheila     |
 
-#+attr_html: :width 600px :cellpadding 20 :cellspacing 5 :border 0 :rules none
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+piet jan klaas
+
+
+#+attr_html: :width 30% :cellpadding 20 :cellspacing 5 :border 0 :rules none
+|   [[link:/nicky][file:/images/nicky.jpg]]   Nicky    |
+#+attr_html: :width 30% :cellpadding 20 :cellspacing 5 :border 0 :rules none
 |   [[link:/nicky][file:/images/nicky.jpg]]   Nicky    |
 
-#+attr_html: :width 600px :cellpadding 20 :cellspacing 5 :border 0 :rules none
-|   [[link:/nicky][file:/images/nicky.jpg]]   Nicky    |
 
-
-#+attr_html: :width 600px :cellpadding 20 :cellspacing 5 :border 0 :rules none
+#+attr_html: :cellpadding 20 :cellspacing 5 :border 0 :rules none
 |    [[link:/sheila][file:/images/sheila.jpg]]    Sheila     |   [[link:/nicky][file:/images/nicky.jpg]]   Nicky    |
 |   [[link:/jorden][file:/images/jorden_tata.png]] Jorden    |   [[link:/lucas][file:/images/lucas.jpg]]    Lucas   |
 |   [[link:/pieter][file:/images/pieter.png]]       Pieter   | [[link:/tristan][file:/images/tristan.jpg]]    Tristan |
