@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/jorden/", "Jorden"),
         ("/lucas/", "Lucas"),
+        ("/machteld/", "Machteld"),
         ("/nanne/", "Nanne"),
         ("/nicky/", "Nicky"),
         ("/pieter/", "Pieter"),
