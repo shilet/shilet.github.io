@@ -1,0 +1,19 @@
+#+BEGIN_COMMENT
+.. title: Nicky
+.. slug: nicky
+.. date: 2021-07-20 21:42:32 UTC+02:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+
+#+END_COMMENT
+
+
+#+ATTR_HTML: :border 0 :rules none
+#+attr_html: :width 300px
+|[[/images/nicky.jpg]]|
+
+
+You can find my personal homepage [[https://ndvanforeest.github.io][here]].

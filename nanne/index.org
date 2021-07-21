@@ -1,0 +1,16 @@
+#+BEGIN_COMMENT
+.. title: Nanne
+.. slug: nanne
+.. date: 2020-10-01 12:43:24 UTC+02:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+
+[[/images/nanne.jpg]]
+
+
+- My name is Nanne van Foreest. I was born in Groningen on August 22, 2007.
+- I have 4 brothers Jorden, Lucas, Pieter, Tristan and one sister Machteld.
