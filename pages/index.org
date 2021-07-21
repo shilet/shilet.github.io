@@ -54,12 +54,3 @@ piet jan klaas
 |   [[link:/jorden][file:/images/jorden_tata.png]] Jorden    |   [[link:/lucas][file:/images/lucas.jpg]]    Lucas   |
 |   [[link:/pieter][file:/images/pieter.png]]       Pieter   | [[link:/tristan][file:/images/tristan.jpg]]    Tristan |
 | [[link:/machteld][file:/images/machteld.jpg]]       Machteld | [[link:/nanne][file:/images/nanne.jpg]]       Nanne  |
-
-
-
-#+attr_html: :width 600px :cellpadding 20 :cellspacing 5 :border 0 :rules none
-|                   <c>                    |                 <c>                 |
-|    [[link:/sheila][file:/images/sheila.jpg]]    Sheila     |   [[link:/nicky][file:/images/nicky.jpg]]   Nicky    |
-|   [[link:/jorden][file:/images/jorden_tata.png]] Jorden    |   [[link:/lucas][file:/images/lucas.jpg]]    Lucas   |
-|   [[link:/pieter][file:/images/pieter.png]]       Pieter   | [[link:/tristan][file:/images/tristan.jpg]]    Tristan |
-| [[link:/machteld][file:/images/machteld.jpg]]       Machteld | [[link:/nanne][file:/images/nanne.jpg]]       Nanne  |
