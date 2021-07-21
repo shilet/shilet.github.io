@@ -13,7 +13,8 @@
 
 * Winner Tatasteel 2021!!
 
-[[/images/jorden_tata.png]]
+#+attr_html: :width 400px :cellpadding 20 :cellspacing 5 :border 0 :rules none :text-align center
+|[[/images/jorden_tata.png]]|
 
 /Picture: Jurriaan Hoefsmit – Tata Steel Chess Tournament 2021/
 
